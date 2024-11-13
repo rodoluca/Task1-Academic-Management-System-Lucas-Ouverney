@@ -30,6 +30,7 @@ Enrollment status.
 b) Write a query to retrieve a list of courses in which a specific student is enrolled.
 
 c) Write a query to retrieve course information, including course name, instructor information.
+
 d) Write a query to retrieve course information for a specific course.
 
 e) Write a query to retrieve course information for multiple courses.
@@ -39,8 +40,12 @@ verify the results against the expected output).
 
 ### 4. Reporting and Analytics (Using joining queries).
 a) Write a query to retrieve the number of students enrolled in each course.
+
 b) Write a query to retrieve the list of students enrolled in a specific course.
+
 c) Write a query to retrieve the count of enrolled students for each instructor.
+
 d) Write a query to retrieve the list of students who are enrolled in multiple courses.
+
 e) Write a query to retrieve the courses that have the highest number of enrolled
 students (arranging from highest to lowest).
