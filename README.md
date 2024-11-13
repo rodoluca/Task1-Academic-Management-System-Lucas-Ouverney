@@ -3,8 +3,9 @@
 ### Project Description:
 Design and develop an Academic Management System using SQL. The projects should involve
 three tables 1. StudentInfo 2. CoursesInfo 3. EnrollmentInfo. The Aim is to create a system that
-allows for managing student information and course enrollment. The project will include the
-following tasks:
+allows for managing student information and course enrollment. 
+
+The project will include the following tasks:
 
 ### 1.Database Creation:
 a) Create the StudentInfo table with columns STU_ ID, STU_NAME, DOB, PHONE_NO,
@@ -25,10 +26,14 @@ respective fields.
 ### 3) Retrieve the Student Information.
 a) Write a query to retrieve student details, such as student name, contact information, and
 Enrollment status.
+
 b) Write a query to retrieve a list of courses in which a specific student is enrolled.
+
 c) Write a query to retrieve course information, including course name, instructor information.
 d) Write a query to retrieve course information for a specific course.
+
 e) Write a query to retrieve course information for multiple courses.
+
 f) Test the queries to ensure accurate retrieval of student information (execute the queries and
 verify the results against the expected output).
 
